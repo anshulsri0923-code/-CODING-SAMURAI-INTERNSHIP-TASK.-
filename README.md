@@ -216,15 +216,6 @@ airbnb_eda.ipynb
 
 ---
 
-# 📈 Future Improvements
-
-* Perform **outlier detection**
-* Build **price prediction machine learning model**
-* Create **interactive dashboards using Power BI / Tableau**
-* Perform **feature engineering**
-
----
-
 # 👨‍💻 Author
 
 **Anshul Srivastava**
