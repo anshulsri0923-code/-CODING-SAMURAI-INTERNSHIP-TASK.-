@@ -229,7 +229,7 @@ airbnb_eda.ipynb
 
 **Anshul Srivastava**
 
-MBA Student | Aspiring Data Scientist
+MBA Student | Data Scientist Intern
 
 💡 Skills:
 
@@ -238,20 +238,5 @@ MBA Student | Aspiring Data Scientist
 * Data Analysis
 * Machine Learning
 * Data Visualization
-
----
-
-⭐ If you like this project, feel free to **star the repository**.
-
----
-
-## 🚀 Pro Tip (For Your GitHub)
-
-To make your project look **10× more impressive**, add these:
-
-* dataset source link
-* EDA charts screenshots
-* project badges
-* project results section
 
 If you want, I can also help you create a **🔥 Data Science Portfolio Level README (top 1% GitHub projects)** that **recruiters notice immediately.**
