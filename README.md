@@ -238,5 +238,3 @@ MBA Student | Data Scientist Intern
 * Data Analysis
 * Machine Learning
 * Data Visualization
-
-If you want, I can also help you create a **🔥 Data Science Portfolio Level README (top 1% GitHub projects)** that **recruiters notice immediately.**
