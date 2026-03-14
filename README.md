@@ -1,7 +1,4 @@
 # -CODING-SAMURAI-INTERNSHIP-TAS
-Here is a **much stronger GitHub README (Portfolio Level)** for your EDA project. This version looks **more professional, recruiter-friendly, and portfolio ready**.
-
-You can copy this directly into **README.md**.
 
 ---
 
